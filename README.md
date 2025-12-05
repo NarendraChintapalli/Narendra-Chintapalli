@@ -1,18 +1,18 @@
 <h2 align="center">Hi 👋 I'm Narendra Chintapalli</h2>
 
-<p align="center">
+<p align="left">
   I am a <strong>Software Developer</strong> and <strong>Data Analytics Enthusiast</strong> with a strong foundation in 
   problem-solving, algorithms, and modern software development practices. I enjoy building reliable software, analyzing data, 
   and developing solutions that create real-world impact.
 </p>
 
-<p align="center">
+<p align="left">
   With hands-on experience across <strong>C++, Python, JavaScript, SQL</strong>, and analytical tools, 
   I work comfortably in both software engineering and data-driven environments. 
   I develop applications, write clean and efficient code, and generate insights from complex datasets.
 </p>
 
-<p align="center">
+<p align="left">
   I’m passionate about <strong>DSA</strong>, 
   <strong>software engineering fundamentals (OOP, DBMS, SDLC)</strong>, and 
   turning raw data into meaningful insights using <strong>Power BI, Excel, Python, and SQL</strong>.  
