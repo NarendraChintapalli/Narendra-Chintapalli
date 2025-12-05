@@ -108,7 +108,7 @@
 ### 🔹 **Drum Kit Web App **
 📁 *JavaScript* 
 - Interactive sound-based UI web application
-🔗 *(https://narendrachintapalli.github.io/drums-project/)*
+🔗  *(https://narendrachintapalli.github.io/drums-project/)*
 
 ---
 ## 🤝 Connect With Me
