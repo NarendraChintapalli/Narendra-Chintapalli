@@ -67,7 +67,7 @@ and transforming raw data into meaningful insights.
 - Cleaned **9K+ records**  
 - Built **8+ KPIs** (Sales, Profit, Region, CLV, RFM)  
 - Interactive slicers & insights  
-🔗 *[Add repo link here](https://github.com/NarendraChintapalli/project_PowerBI-Sales-Dashboard)*
+🔗 *(https://github.com/NarendraChintapalli/project_PowerBI-Sales-Dashboard)*
 
 ---
 
@@ -75,7 +75,7 @@ and transforming raw data into meaningful insights.
 📁 *Node.js • Express.js • SQLite • HTML/CSS/JS*  
 - Timers, navigation, score calculation  
 - Backend APIs + DB integration  
-🔗 *[Add repo link here](https://github.com/NarendraChintapalli/quiz-app)*
+🔗 *(https://github.com/NarendraChintapalli/quiz-app)*
 
 ---
 
@@ -83,14 +83,14 @@ and transforming raw data into meaningful insights.
 📁 *JavaScript • API Integration*  
 - Real-time weather search  
 - Clean UI + smooth UX  
-🔗 *[Add repo link here](https://github.com/NarendraChintapalli/weather-app)*
+🔗 *(https://github.com/NarendraChintapalli/weather-app)*
 
 ---
 
 ### 🔹 **QR Code Generator**
 📁 *Node.js*  
 - Generates instant QR codes for text/links  
-🔗 *[Add repo link here](https://github.com/NarendraChintapalli/QR-code-generator-text-url-)*
+🔗 *(https://github.com/NarendraChintapalli/QR-code-generator-text-url-)*
 
 ---
 
