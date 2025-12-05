@@ -7,7 +7,7 @@ and transforming raw data into meaningful insights.
 </p>
 
 <p align="center">
-🎓 B.Tech in Computer Science (NIT Kurukshetra) • 💻 Backend Developer • 📊 Data Analyst  
+🎓 B.Tech in Computer Science (NIT Kurukshetra) • 💻 Software Developer • 📊 Data Analyst  
 </p>
 
 <p align="center">
@@ -94,17 +94,6 @@ and transforming raw data into meaningful insights.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=NarendraChintapalli&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats-seven.vercel.app/?user=NarendraChintapalli&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=NarendraChintapalli&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
-
 
 ---
 
@@ -112,7 +101,7 @@ and transforming raw data into meaningful insights.
 
 📧 **narendrachintapalli271@gmail.com**  
 📱 **+91 9390383366**  
-🔗 **LinkedIn:** *(add your link)*  
+🔗 **LinkedIn:** *https://www.linkedin.com/in/narendra27*  
 🔗 **GitHub:** https://github.com/NarendraChintapalli  
 
 ---
