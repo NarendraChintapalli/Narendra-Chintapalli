@@ -1,7 +1,9 @@
-# Narendra-Chintapalli
-<h2 align="center">Hi 👋 I'm Narendra Chintapalli</h2>
 
-<h2 align="center">Hi 👋 I'm Narendra Chintapalli</h2> <p align="center"> I am a <strong>Software Developer</strong> and <strong>Data Analytics Enthusiast</strong> with a strong foundation in problem-solving, algorithms, and modern software development practices. I enjoy building reliable software, analyzing data, and developing solutions that make real-world impact. </p> <p align="center"> With hands-on experience across <strong>C++, Python, JavaScript, SQL, and analytical tools</strong>, I work comfortably in both software engineering and data-driven environments. My work spans developing applications, writing clean and efficient code, building small-scale systems, and generating insights from complex datasets. </p> <p align="center"> I’m passionate about <strong>DSA, software engineering fundamentals (OOP, DBMS, SDLC)</strong>, and turning raw data into meaningful insights using <strong>Power BI, Excel, Python, and SQL</strong>. My goal is to contribute to high-impact engineering teams while continuously learning and growing. </p>
+
+<h2 align="center">Hi 👋 I'm Narendra Chintapalli</h2> 
+<p align="center"> I am a <strong>Software Developer</strong> and <strong>Data Analytics Enthusiast</strong> with a strong foundation in problem-solving, algorithms, and modern software development practices. I enjoy building reliable software, analyzing data, and developing solutions that make real-world impact. </p> 
+<p align="center"> With hands-on experience across <strong>C++, Python, JavaScript, SQL, and analytical tools</strong>, I work comfortably in both software engineering and data-driven environments. My work spans developing applications, writing clean and efficient code, building small-scale systems, and generating insights from complex datasets. </p> 
+<p align="center"> I’m passionate about <strong>DSA, software engineering fundamentals (OOP, DBMS, SDLC)</strong>, and turning raw data into meaningful insights using <strong>Power BI, Excel, Python, and SQL</strong>. My goal is to contribute to high-impact engineering teams while continuously learning and growing. </p>
 
 <p align="center">
 🎓 B.Tech in Computer Science (NIT Kurukshetra) • 💻 Software Developer • 📊 Data Analyst  
