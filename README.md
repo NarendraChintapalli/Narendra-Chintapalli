@@ -105,9 +105,11 @@
 🔗 *(https://github.com/NarendraChintapalli/QR-code-generator-text-url-)*
 
 ---
+### 🔹 **Drum Kit Web App **
+📁 *JavaScript* 
+- Interactive sound-based UI web application
+🔗 *(https://github.com/NarendraChintapalli/QR-code-generator-text-url-)](https://narendrachintapalli.github.io/drums-project/)*
 
-
----
 
 ## 🤝 Connect With Me
 
